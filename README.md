@@ -1,2 +1,2 @@
 # cppPrimer
-C++ Primer (5th) Exercise
+Exercise from the book C++ Primer (5th)
